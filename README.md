@@ -1,2 +1,2 @@
 # SpamMailDetection
-Identify your spam mail
+Identify your spam mail.  A spam email detection model using the Naive Bayes classifier. This model is designed to automatically classify incoming emails as either 'spam' or 'not spam' (ham). It has been trained on a labeled dataset of emails and utilizes the vectorization technique to convert email text into a numerical format suitable for machine learning. The model has undergone evaluation and fine-tuning to achieve optimal performance, including metrics such as accuracy, precision, recall, and F1-score. By sharing this project on GitHub, I aim to contribute to the fight against email spam and provide a valuable resource for those interested in email filtering and text classification tasks."
